@@ -3,7 +3,7 @@ PREPROCESSING WRAPPER
 ---------------------
 Created on 27/09/2017
 A Preprocessing wrapper class for basic preprocessing steps
-Author: GAA
+Author: Kaushal Shetty
 ---------------------
 '''
 
